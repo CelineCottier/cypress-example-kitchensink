@@ -5,6 +5,8 @@ context('Actions', () => {
     cy.visit('http://localhost:8080/commands/actions')
   })
 
+  //test
+
   // https://on.cypress.io/interacting-with-elements
 
   it('.type() - type into a DOM element', () => {
